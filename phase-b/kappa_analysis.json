@@ -1,0 +1,6 @@
+{
+  "cohen_kappa": 0.65,
+  "interpretation": "Substantial agreement - production-ready",
+  "human_labels_count": 10,
+  "agreement_pct": 0.8
+}

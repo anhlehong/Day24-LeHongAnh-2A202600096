@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+1,A,high,A is more accurate with specifics
+2,B,medium,B has better structure
+3,A,high,A directly answers
+4,tie,low,Both equivalent quality
+5,B,medium,B more concise
+6,A,medium,A has correct regulation reference
+7,B,low,B slightly better wording
+8,A,high,A clearly correct
+9,tie,medium,Both acceptable
+10,B,medium,B includes helpful context

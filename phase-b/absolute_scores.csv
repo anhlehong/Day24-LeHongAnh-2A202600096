@@ -1,0 +1,31 @@
+accuracy,relevance,conciseness,helpfulness,overall,question
+5,5,4,5,4.75,What is the retention period for financial documents?
+5,5,5,5,5.0,How does RAG improve answer quality?
+5,5,4,5,4.75,What are the customer onboarding requirements?
+5,5,4,5,4.75,What is the minimum credit score for loan approval?
+5,5,4,5,4.75,How often must compliance reports be filed?
+5,5,4,5,4.75,What is the interest rate for savings accounts?
+5,5,4,5,4.75,Who approves new customer accounts?
+5,5,4,5,4.75,What documents are required for loan application?
+5,5,4,5,4.75,When is the annual compliance audit conducted?
+5,5,5,5,5.0,What is the maximum loan amount for personal loans?
+5,5,4,5,4.75,What is the fixed deposit rate for 1-year term?
+5,5,4,5,4.75,How to report a security incident?
+5,5,4,5,4.75,What is the data breach notification timeline?
+5,5,4,5,4.75,Who is the data protection officer?
+5,5,4,5,4.75,What is the password policy requirement?
+5,5,4,5,4.75,How often must security training be completed?
+5,5,4,5,4.75,What is the customer service hours?
+5,5,4,5,4.75,What is the transaction limit for online transfers?
+5,5,4,5,4.75,What is the loan processing time?
+5,5,5,5,5.0,What is the minimum deposit for savings account?
+5,5,5,5,5.0,Compare interest rates between savings and fixed deposit products?
+5,5,4,5,4.75,What are the differences in KYC requirements for personal vs business accounts?
+5,5,4,5,4.75,How does loan eligibility differ between personal and business loans?
+5,5,4,5,4.75,Compare data retention policies for customer vs transaction records?
+5,5,4,5,4.75,What are the compliance requirements for both digital and physical document storage?
+5,5,4,5,4.75,How do security incident procedures differ between IT and physical breaches?
+5,5,4,5,4.75,Compare the onboarding process for retail vs corporate banking customers?
+5,5,4,5,4.75,What are the differences in loan terms between mortgage and personal loans?
+5,5,4,5,4.75,How do audit requirements differ for quarterly vs annual reviews?
+5,5,4,5,4.75,Compare fraud prevention measures for online vs branch transactions?

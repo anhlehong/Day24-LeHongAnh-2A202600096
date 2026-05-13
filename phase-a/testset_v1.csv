@@ -1,0 +1,51 @@
+question,ground_truth,evolution_type
+What is the retention period for financial documents?,Financial documents should be retained for 7 years according to regulation.,simple
+How does RAG improve answer quality?,RAG combines retrieval with generation to provide context-grounded answers.,simple
+What are the customer onboarding requirements?,KYC requires identity verification and address confirmation.,simple
+What is the minimum credit score for loan approval?,Minimum credit score is 650 for standard loan approval.,simple
+How often must compliance reports be filed?,Compliance reports must be filed quarterly.,simple
+What is the interest rate for savings accounts?,Savings account rate is 5.5% annually.,simple
+Who approves new customer accounts?,New customer accounts are approved by the compliance team.,simple
+What documents are required for loan application?,"ID, income proof, bank statements, and collateral documents.",simple
+When is the annual compliance audit conducted?,Annual compliance audit is conducted in Q4 each year.,simple
+What is the maximum loan amount for personal loans?,"Maximum personal loan amount is $500,000.",simple
+What is the fixed deposit rate for 1-year term?,Fixed deposit rate for 1-year term is 7.2%.,simple
+How to report a security incident?,Security incidents should be reported via the incident management portal within 24 hours.,simple
+What is the data breach notification timeline?,Data breaches must be reported within 72 hours.,simple
+Who is the data protection officer?,The DPO is appointed by the board and reports directly to compliance.,simple
+What is the password policy requirement?,Passwords must be 12+ characters with complexity requirements.,simple
+How often must security training be completed?,Security training must be completed annually.,simple
+What is the customer service hours?,Customer service is available 24/7 via phone and email.,simple
+What is the transaction limit for online transfers?,"Online transfer limit is $10,000 per transaction.",simple
+What is the loan processing time?,Loan processing takes 5-7 business days.,simple
+What is the minimum deposit for savings account?,Minimum deposit is $100.,simple
+Compare interest rates between savings and fixed deposit products?,"Savings account rate is 5.5%, fixed deposit 7.2%.",multi_context
+What are the differences in KYC requirements for personal vs business accounts?,Personal accounts require ID and address; business accounts additionally require registration and tax documents.,multi_context
+How does loan eligibility differ between personal and business loans?,Personal loans require credit score 650+; business loans require financial statements and business plan.,multi_context
+Compare data retention policies for customer vs transaction records?,Customer records: 7 years; transaction records: 10 years.,multi_context
+What are the compliance requirements for both digital and physical document storage?,"Both require encryption, access logs, and annual audit. Digital requires additional access controls.",multi_context
+How do security incident procedures differ between IT and physical breaches?,IT breaches require 72-hour notification; physical breaches require immediate lockdown and police report.,multi_context
+Compare the onboarding process for retail vs corporate banking customers?,Retail: ID + address proof. Corporate: registration + financials + authorized signatories.,multi_context
+What are the differences in loan terms between mortgage and personal loans?,"Mortgage: up to 30 years, lower rate. Personal: up to 7 years, higher rate.",multi_context
+How do audit requirements differ for quarterly vs annual reviews?,Quarterly: internal review of key metrics. Annual: external audit of all processes.,multi_context
+Compare fraud prevention measures for online vs branch transactions?,Online: 2FA + behavioral analysis. Branch: ID verification + biometric confirmation.,multi_context
+What changed in the latest policy update compared to the previous version?,Policy v2.3 adds new compliance requirements for data handling and extends retention period.,reasoning
+Why might a loan application be rejected despite meeting minimum credit score?,"Rejection could be due to insufficient income, high debt-to-income ratio, or incomplete documentation.",reasoning
+What is the relationship between compliance requirements and data retention policies?,Compliance requirements dictate minimum retention periods; longer retention may be needed for audit purposes.,reasoning
+"If a data breach occurs, what is the full incident response process?",1) Contain breach 2) Assess scope 3) Notify authorities within 72h 4) Notify affected parties 5) Remediate,reasoning
+How does the interest rate affect loan eligibility calculations?,"Higher rates increase monthly payments, reducing the maximum loan amount eligible borrowers can afford.",reasoning
+What factors determine whether a customer qualifies for premium banking services?,"Income threshold, account balance, credit history, and product usage determine premium eligibility.",reasoning
+How would you assess the risk profile of a new business loan applicant?,"Assess credit history, financial statements, industry risk, collateral value, and business plan viability.",reasoning
+What impact would a policy change in data retention have on compliance reporting?,Extended retention increases storage costs but improves audit readiness; shorter retention may violate regulations.,reasoning
+How does the customer onboarding process affect subsequent compliance monitoring?,Thorough onboarding provides baseline data for ongoing monitoring; gaps create compliance blind spots.,reasoning
+What would be the root cause analysis for a spike in loan defaults?,"Analyze economic conditions, credit scoring model accuracy, underwriting standards, and borrower demographics.",reasoning
+What is the penalty for late compliance filing?,"Late filing incurs a $10,000 fine per occurrence.",simple
+How does the risk rating system categorize customers?,"Customers are rated low, medium, or high risk based on transaction patterns and history.",simple
+What is the relationship between KYC and AML procedures?,KYC identifies customers; AML monitors their transactions for suspicious activity.,reasoning
+What would trigger an enhanced due diligence review?,"High-value transactions, PEP status, or unusual activity patterns trigger EDD.",reasoning
+Compare the regulatory requirements for domestic vs international wire transfers?,Domestic: basic verification. International: additional sanctions screening and source of funds documentation.,multi_context
+How do data protection requirements affect customer onboarding timelines?,"Data protection adds consent and privacy notice steps, extending onboarding by 1-2 days.",reasoning
+What are the operational risk implications of different customer authentication methods?,Password-only has highest risk; biometric has lowest but highest implementation cost.,reasoning
+Compare the audit trail requirements for manual vs automated compliance decisions?,Manual: full written justification. Automated: algorithm documentation + decision logs.,multi_context
+What is the escalation procedure for high-risk compliance findings?,"High-risk findings escalate to Compliance Director within 24h, then to Board Risk Committee.",simple
+How does customer segmentation affect risk assessment and monitoring frequency?,High-risk customers monitored monthly; low-risk customers quarterly.,reasoning

@@ -1,0 +1,7 @@
+{
+  "faithfulness": 0.6919,
+  "answer_relevancy": 0.7401,
+  "context_precision": 0.6209,
+  "context_recall": 0.678,
+  "total_api_cost_usd": 0.0134
+}

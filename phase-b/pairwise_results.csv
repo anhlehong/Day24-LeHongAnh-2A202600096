@@ -1,0 +1,5 @@
+question,answer_a,answer_b,run1_winner,run2_winner,winner_after_swap
+What is the retention period?,7 years,According to regulations, documents must be kept for a minimum of 7 years.,A,B,A
+How does RAG work?,RAG retrieves relevant chunks then generates answer,RAG combines retrieval and generation for grounded responses.,B,A,A
+What are the onboarding requirements?,KYC requires ID and address proof,KYC involves identity verification and address confirmation steps.,A,A,A
+Compare savings and FD rates?,Savings 5.5%, FD 7.2%,Fixed deposit offers 7.2% versus savings account at 5.5%.,B,A,A
